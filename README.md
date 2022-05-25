@@ -2,7 +2,7 @@
 ### This project incorporates Python and Netlogo to explore and model hypotheses to do with different learning styles in [The Ultimatum Game](https://www.sciencedirect.com/topics/neuroscience/ultimatum-game), using probability distributions and calculated posteriors.
 
 ##### **Model 1: Difference Proportional Learning**
-**Hypothesis:** People compare their own level of success to a potential role model and then copy their strategy with a probability proportional to the difference in success levels.
+**Hypothesis:** People compare their own level of success to a potential role model and then proceed to copy their strategy with a probability proportional to the difference in success levels.
 
 **Algorithm Implementation:** To model a player comparing their own success to a potential role model and copying the strategy from that player, players assess how well they themselves do and how well someone else did and compute the difference. The player then generates a random number and evaluates an inequality between the random number and the difference in payoffs proportion.
  
