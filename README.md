@@ -15,7 +15,7 @@ could be motivated entirely by the other person’s success.
 #### **Model 3: Motivation by Dissatisfaction**
 **Hypothesis:** Maybe people don’t need to know the other person’s level of success. Copying behaviour could be motivated by dissatisfaction.
 
-**Algorithm Implementation:** To model being motivated by dissatisfaction with one’s own success, the model erased the training-data and changed the condition under which each player learned by keeping the payoff, which was each player’s own strategy. If a player’s payoff was less than their payout, then they decided to copy the strategy of another player. As a result, players would then want to change strategies more often when their payoff is low, and less often when their payoff is high, because players are more satisfied when they have a higher strategy. 
+**Algorithm Implementation:** To model being motivated by dissatisfaction with one’s own success, the model erased the training-data and changed the condition under which each player learned by keeping the payoff, which was each player’s own strategy. If a player’s payoff was less than their payout, they decided to copy the strategy of another player. As a result, players would then want to change strategies more often when their payoff is low, and less often when their payoff is high, because players are more satisfied when they have a higher strategy. 
 
 ##### **Model 4: Deterministic Learning**
 **Hypothesis:** Copying behaviour is entirely deterministic.
