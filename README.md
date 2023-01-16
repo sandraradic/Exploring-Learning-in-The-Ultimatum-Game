@@ -1,4 +1,4 @@
-# COGS-303-Models-of-Learning
+# Exploring Learning Methods in the Ultimatum Game (COGS 303)
 ### This project incorporates Python and Netlogo to explore and model hypotheses to do with different learning styles in [The Ultimatum Game](https://www.sciencedirect.com/topics/neuroscience/ultimatum-game), using probability distributions and calculated posteriors.
 
 ##### **Model 1: Difference Proportional Learning**
